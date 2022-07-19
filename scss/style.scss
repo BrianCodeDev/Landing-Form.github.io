@@ -1,0 +1,52 @@
+body {
+    background-color: #D9D9D9;
+}
+// side nav
+.container-box .side-box {
+    background-color: #012800;
+    height: 100%;
+    position: absolute;
+    width: 40%;
+}
+.container-box .side-box h1 {
+    color: antiquewhite;
+    padding-left: 25%;
+    padding-right: 25%;
+
+    padding-top: 50px;
+}
+.container-box .side-box hr {
+    color: antiquewhite;
+}
+.container-box .side-box p {
+    color: antiquewhite;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.content .form {
+    margin-left: 40%;
+}
+.content .form h1 {
+    color: black;
+    text-align: center;
+    padding-top: 50px;
+}
+.content .container-box h2 {
+    padding-left: 30px;
+}
+.content .container-box form {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.content .container-box .button-submit {
+    padding-top: 180px;
+}
+.content .container-box button {
+    float: right;
+    width: 200px;
+    font-size: 20px;
+}
+.container-content .content .container-box .side-box .button-submit {
+    padding-right: 220px;
+}
